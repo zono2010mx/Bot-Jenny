@@ -40,4 +40,4 @@ async def ran(ctx, n1: int, n2: int):
     except ValueError:
         await ctx.send("¡Tu primer numero es mayor que el segundo! ¡Va al reves tontin (￣▽￣*)ゞ")
 
-bot.run('TOKEN')
+bot.run('TOKE')
